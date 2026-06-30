@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ### 💼 Experience
 
 **Senior Software Engineer** — *Aumovio*
@@ -25,11 +29,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 **Bachelor's Degree — Computer Science & Computer Engineering** — *Faculty of Engineering, Sibiu*
 `Oct 2017 – Jul 2021`
 
----
+</td>
+<td valign="top" width="45%">
 
 ### GitHub Stats
 
-![Dan's GitHub metrics](./github-metrics.svg)
+<img src="./github-metrics.svg" alt="Dan's GitHub metrics" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
