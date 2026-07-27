@@ -42,5 +42,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ---
 
+### Interests
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=700&width=435&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Natural+Language+Processing;Distributed+Systems;Cybersecurity)](https://git.io/typing-svg)
+
+---
+
 ### 📫 Let's connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat&logo=google-chrome&logoColor=white)](https://vinersardan.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-ioan-v-6b1220218) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danvinersar98@gmail.com)
